@@ -1,7 +1,7 @@
 # Lamb the Reminder
-小羊提醒：一個 linebot 鬧鐘的 idea
+(linebot留檔 & 未來也許擴充)
 
-(就只是一個 idea，也許之後會做，現在只是留檔)
+小羊提醒：一個 linebot 鬧鐘的 idea
 
 <br/>
 
